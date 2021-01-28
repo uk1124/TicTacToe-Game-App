@@ -1,1 +1,1 @@
-# Tic-Tac-Toe-Game-App
+An App for playing TicTacToe.
